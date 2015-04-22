@@ -1,0 +1,7 @@
+
+# ignore all file .txt
+*.txt
+
+# ignore file from php storm
+.DS_Store
+.idea
