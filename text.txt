@@ -1,1 +1,1 @@
-fichier text.txt pour tester github. gfdfgdfgdgqgqfb
+fichier text.txt pour tester github. modification avec l'editeur VI
