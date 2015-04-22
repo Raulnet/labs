@@ -1,6 +1,6 @@
 
 # ignore all file .txt
-*.txt
+#*.txt
 
 # ignore file from php storm
 .DS_Store
