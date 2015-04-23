@@ -8,4 +8,8 @@ version 2 des tags
 
 Moddification du fichier text pour tester les tags etc....
 
+****** modification dans la branche fix *******
 
+***************** ///// ***********************
+
+*** fin des modifications de la branche fix ***
