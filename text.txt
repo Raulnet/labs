@@ -1,5 +1,0 @@
-fichier text.txt pour tester github. modification avec l'editeur VI
-nouvelle modification avec VI depuis PHPstorm
-
-modification test pour le push 21
-
